@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Beniamin
+- 👀 I’m interested in making software that works
+- 🌱 I’m currently learning DDD, TDD, better error handling/monitoring practices, performance monitoring...
